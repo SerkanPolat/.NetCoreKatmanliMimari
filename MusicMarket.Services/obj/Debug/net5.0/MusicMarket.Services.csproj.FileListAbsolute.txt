@@ -1,0 +1,15 @@
+D:\Git-Proje\NetCore\MusicMarket.Services\bin\Debug\net5.0\MusicMarket.Services.deps.json
+D:\Git-Proje\NetCore\MusicMarket.Services\bin\Debug\net5.0\MusicMarket.Services.dll
+D:\Git-Proje\NetCore\MusicMarket.Services\bin\Debug\net5.0\ref\MusicMarket.Services.dll
+D:\Git-Proje\NetCore\MusicMarket.Services\bin\Debug\net5.0\MusicMarket.Services.pdb
+D:\Git-Proje\NetCore\MusicMarket.Services\bin\Debug\net5.0\MusicMarket.Core.dll
+D:\Git-Proje\NetCore\MusicMarket.Services\bin\Debug\net5.0\MusicMarket.Core.pdb
+D:\Git-Proje\NetCore\MusicMarket.Services\obj\Debug\net5.0\MusicMarket.Services.csprojAssemblyReference.cache
+D:\Git-Proje\NetCore\MusicMarket.Services\obj\Debug\net5.0\MusicMarket.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git-Proje\NetCore\MusicMarket.Services\obj\Debug\net5.0\MusicMarket.Services.AssemblyInfoInputs.cache
+D:\Git-Proje\NetCore\MusicMarket.Services\obj\Debug\net5.0\MusicMarket.Services.AssemblyInfo.cs
+D:\Git-Proje\NetCore\MusicMarket.Services\obj\Debug\net5.0\MusicMarket.Services.csproj.CoreCompileInputs.cache
+D:\Git-Proje\NetCore\MusicMarket.Services\obj\Debug\net5.0\MusicMarket.Services.csproj.CopyComplete
+D:\Git-Proje\NetCore\MusicMarket.Services\obj\Debug\net5.0\MusicMarket.Services.dll
+D:\Git-Proje\NetCore\MusicMarket.Services\obj\Debug\net5.0\ref\MusicMarket.Services.dll
+D:\Git-Proje\NetCore\MusicMarket.Services\obj\Debug\net5.0\MusicMarket.Services.pdb

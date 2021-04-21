@@ -1,0 +1,12 @@
+D:\Git-Proje\NetCore\MusicMarket.Core\bin\Debug\net5.0\MusicMarket.Core.deps.json
+D:\Git-Proje\NetCore\MusicMarket.Core\bin\Debug\net5.0\MusicMarket.Core.dll
+D:\Git-Proje\NetCore\MusicMarket.Core\bin\Debug\net5.0\ref\MusicMarket.Core.dll
+D:\Git-Proje\NetCore\MusicMarket.Core\bin\Debug\net5.0\MusicMarket.Core.pdb
+D:\Git-Proje\NetCore\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.csprojAssemblyReference.cache
+D:\Git-Proje\NetCore\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git-Proje\NetCore\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.AssemblyInfoInputs.cache
+D:\Git-Proje\NetCore\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.AssemblyInfo.cs
+D:\Git-Proje\NetCore\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.csproj.CoreCompileInputs.cache
+D:\Git-Proje\NetCore\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.dll
+D:\Git-Proje\NetCore\MusicMarket.Core\obj\Debug\net5.0\ref\MusicMarket.Core.dll
+D:\Git-Proje\NetCore\MusicMarket.Core\obj\Debug\net5.0\MusicMarket.Core.pdb
